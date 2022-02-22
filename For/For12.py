@@ -1,4 +1,4 @@
-# For12. n butun son berilgan(n>0). S=1.1*1.2*1.3... n ta ko'paytuvchi topilsin.
+## For12. n butun son berilgan(n>0). S=1.1*1.2*1.3... n ta ko'paytuvchi topilsin.
 n = int(input("N = "))
 s=1
 if n<=0:
