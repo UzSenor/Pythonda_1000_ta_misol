@@ -5,6 +5,6 @@ A1=1
 A2=2
 for k in range(3, n+1):
     Ak=(A1+2*A2)/3
-    A1=Ak
-    A2=Ak+1
+    A1=A2
+    A2=Ak
     print(Ak, end=" ")
