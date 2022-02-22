@@ -6,7 +6,7 @@ A2=2
 A3=3
 for k in range(4, n+1):
     Ak=A3+A2-2*A1
-    A1=Ak
-    A2=Ak+1
-    A3=Ak+2
+    A1=A2
+    A2=A3
+    A3=Ak
     print(Ak, end=" ")
